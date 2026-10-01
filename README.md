@@ -14,7 +14,7 @@
 ### 👨‍💼 About Me
 
 - 🎯 Previously a **Territory Business Manager** at SAMI Pharmaceuticals, where I combined hands-on B2B sales with data analysis to drive account and territory growth.
-- 🎓 Pursuing an **MS in Business Analytics** at FAST NUCES, building formal analytical skills on top of real commercial experience.
+- 🎓 Pursuing an **MS in Business Analytics** at FAST NUCES Lahore Campus, building formal analytical skills on top of real commercial experience.
 - 🔬 Published researcher: co-authored a spatio-temporal analysis of High Pathogenic Avian Influenza outbreaks using R (ST-DBSCAN clustering, Fisher's Exact Test, Kruskal-Wallis).
 - 🧪 Background in Biotechnology (BS, Forman Christian College), with hands-on research experience at UVAS and PCSIR.
 - 💻 Started my technical journey with two Python development internships (YoungDev, CodSoft).
